@@ -6,10 +6,10 @@ Materials/Resources using which I learnt:
      * [All-Python-codes-of-ZTM-course-by-Andrei-Neagoie](https://github.com/KrsnaAleti/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie)
 
 
-- [Flask](https://github.com/KrsnaAleti/My_Resources/tree/main/Flask) - API_Postman_Flask
+  - Flask - API_Postman_Flask
   * Creating an app > Connecting with Database > Deploying in Heroku: [Flask_Database_Heroku](https://github.com/KrsnaAleti/My_Resources/tree/main/Flask_Database_Heroku)
   
-- [Django](https://github.com/KrsnaAleti/My_Resources/tree/main/Django)
+  - Django
   * Connecting Django with PostgreSQL database: [Django_telusko](https://github.com/KrsnaAleti/My_Resources/tree/main/Django_telusko)
 
 
