@@ -24,6 +24,6 @@ Materials/Resources using which I learnt:
        * Connecting Django with PostgreSQL database: [Django_telusko](https://github.com/KrsnaAleti/My_Resources/tree/main/Django_telusko)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-- [Mastering Data Science]
+- Mastering Data Science:
   - https://ineuron.ai/course/mastering-data-science-english-v2?source=learn_page
   - https://github.com/KrsnaAleti/Mastering-Data-Science
