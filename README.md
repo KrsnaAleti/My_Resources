@@ -23,3 +23,6 @@ Materials/Resources using which I learnt:
     * Creating an app > Connecting with Database > Deploying in Heroku: [Flask_Database_Heroku](https://github.com/KrsnaAleti/My_Resources/tree/main/Flask_Database_Heroku)
 4. [Django](https://github.com/KrsnaAleti/My_Resources/tree/main/Django)
      * Connecting Django with PostgreSQL database: [Django_telusko](https://github.com/KrsnaAleti/My_Resources/tree/main/Django_telusko)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Mastering Data Science: https://github.com/KrsnaAleti/Mastering-Data-Science
