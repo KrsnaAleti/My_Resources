@@ -1,8 +1,8 @@
 # My-Resources
 Materials/Resources using which I learnt:
 
-  [Python_ZTM Materials/Resources](https://github.com/KrsnaAleti/My_Resources/tree/main/Python_ZTM)
-   * Project: [PwdLeakCheck](https://github.com/KrsnaAleti/PwdLeakCheck)
+ -  [Python_ZTM Materials/Resources](https://github.com/KrsnaAleti/My_Resources/tree/main/Python_ZTM)
+     * Project: [PwdLeakCheck](https://github.com/KrsnaAleti/PwdLeakCheck)
      * [All-Python-codes-of-ZTM-course-by-Andrei-Neagoie](https://github.com/KrsnaAleti/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie)
 
 
