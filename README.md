@@ -7,7 +7,6 @@ Materials/Resources using which I learnt:
 
 
 - [FSDS-Feb_iNeuron](https://ineuron.ai/course/full-stack-data-science-feb21-batch?source=learn_page)
-
   1. [Python_iNeuron Materials/Resources](https://github.com/KrsnaAleti/My_Resources/tree/main/Python_iNeuron)
      *  [Python Projects/Tasks](https://github.com/KrsnaAleti/My_Resources/tree/main/Python_iNeuron/Tasks_Challenges)
         * [OS Module Task](https://github.com/KrsnaAleti/My_Resources/tree/main/Python_iNeuron/Tasks_Challenges/OS%20Module%20Task)
@@ -25,4 +24,4 @@ Materials/Resources using which I learnt:
        * Connecting Django with PostgreSQL database: [Django_telusko](https://github.com/KrsnaAleti/My_Resources/tree/main/Django_telusko)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-- [Mastering Data Science] (https://ineuron.ai/course/mastering-data-science-english-v2?source=learn_page): https://github.com/KrsnaAleti/Mastering-Data-Science
+- [Mastering Data Science](https://ineuron.ai/course/mastering-data-science-english-v2?source=learn_page): https://github.com/KrsnaAleti/Mastering-Data-Science
