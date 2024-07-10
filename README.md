@@ -19,6 +19,6 @@ Materials/Resources using which I learnt:
 
 - [Data Science Masters 2.0](https://github.com/KrsnaAleti/Data-Science-Masters-2.0)
 
-- [Complete Machine Learning NLP & MLOPS Deployment](https://github.com/KrsnaAleti/Complete-Machine-Learning-NLP-Bootcamp-MLOPS-Deployment)
+- [Complete Machine Learning NLP & MLOPS Deployment](https://github.com/KrsnaAleti/Complete-Machine-Learning-NLP-and-MLOPS-Deployment)
 
 - [Projects](https://github.com/KrsnaAleti/Projects)
