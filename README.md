@@ -18,3 +18,5 @@ Materials/Resources using which I learnt:
 - [FSDS-Feb_iNeuron](https://github.com/KrsnaAleti/FSDS_iNeuron)
 
 - [Data Science Masters 2.0](https://github.com/KrsnaAleti/Data-Science-Masters-2.0)
+
+- [Projects](https://github.com/KrsnaAleti/Projects)
