@@ -11,7 +11,7 @@ Materials/Resources using which I learnt:
   
   - Django
      * Connecting Django with PostgreSQL database: [Django_telusko](https://github.com/KrsnaAleti/My_Resources/tree/main/Django_telusko)
-       * https://github.com/KrsnaAleti/Travel-website-using-Django
+     * [Travel-website-using-Django](https://github.com/KrsnaAleti/Travel-website-using-Django)
 
 
 - [FSDS-Feb_iNeuron](https://github.com/KrsnaAleti/FSDS_iNeuron)
