@@ -8,6 +8,7 @@ Materials/Resources using which I learnt:
 
   - Flask - API_Postman_Flask
      * Creating an app > Connecting with Database > Deploying in Heroku: [Flask_Database_Heroku](https://github.com/KrsnaAleti/My_Resources/tree/main/Flask_Database_Heroku)
+      * [Deploying-Flask-app-in-Heroku](https://github.com/KrsnaAleti/Deploying-Flask-app-in-Heroku)
   
   - Django
      * Django Basics and Connecting Django with PostgreSQL database --- [Travel-website-using-Django](https://github.com/KrsnaAleti/Travel-website-using-Django)
