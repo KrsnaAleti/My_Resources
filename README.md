@@ -14,6 +14,7 @@ Materials/Resources using which I learnt:
      * Django Basics and Connecting Django with PostgreSQL database --- [Travel-website-using-Django](https://github.com/KrsnaAleti/Travel-website-using-Django)
  
 
+- [Data Science And GENAI](https://github.com/KrsnaAleti/Data-Science-And-GENAI)
 
 - [FSDS-Feb_iNeuron](https://github.com/KrsnaAleti/FSDS_iNeuron)
 
